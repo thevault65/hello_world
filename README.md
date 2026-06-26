@@ -4,4 +4,4 @@ Hello World!
 
 ## New world 
 This is a public announcement !!!
-Please be kind me... I'm new!
+Please be kind to me... I'm new!
